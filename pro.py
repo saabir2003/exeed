@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import shap
 import matplotlib.pyplot as plt
-from sklearn import datasets
-from sklearn.ensemble import RandomForestRegressor
+from scikit-learn import datasets
+from scikit-learn.ensemble import RandomForestRegressor
 
 # file=input("enter file name:-")
 # fil=file+".xlsx"
