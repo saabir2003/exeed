@@ -4,5 +4,4 @@ matplotlib
 shap
 scikit-learn
 streamlit
-sklearn
-sklearn.ensemble
+scikit-learn.ensemble
