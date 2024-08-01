@@ -3,3 +3,6 @@ pandas
 matplotlib.pyplot
 shap
 scikit-learn
+streamlit
+sklearn
+sklearn.ensemble
